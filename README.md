@@ -4,6 +4,8 @@ Sou o Flávio, fã de Hardware e Softwares computacionais...
 
 🔧  -  Admirador de placas microcontroladoras
 
+📩  - flavio5070@outlook.com
+
 
 <div> 
 <a href="https://github.com/Flavio-LP">
