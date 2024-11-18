@@ -1,21 +1,24 @@
-Sou o Flávio, fã de Hardware e Softwares computacionais...
+Eu sou Flávio, Desenvolvedor Backend
 
-📚  -  Aprendiz no mundo da Programação
+ 
+Estou aprendendo ReactJS, NodeJS, Expressjs.
 
-🔧  -  Admirador de placas microcontroladoras
 
-📩  - flavio5070@outlook.com
-
+<h1>Tecnologias</h1>
 
 <div> 
-<a href="https://github.com/Flavio-LP">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-LP&layout=compact&langs_count=7&theme=dracula"/>
-  <img  height="180em" width="180em"src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif">
-  
-   <a href="https://www.instagram.com/flavio.pirola/" target="_blank"><img src="https://camo.githubusercontent.com/32de3d6ae0d152d74e6672352d26fa61f265b2bddbca55655b4c413a97c17385/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e7374616772616d26636f6c6f723d453434303546266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank"></a>
-   <a href = "mailto:flavio5070@outlook.com"><img src="https://camo.githubusercontent.com/0accc9d4c1a29e0f1ae065f84f717394d62c965b00c6744a942596aa8f95c1ee/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b4f75746c6f6f6b26636f6c6f723d303037384434266c6f676f3d4d6963726f736f66742b4f75746c6f6f6b266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/flavio-pirola-431855197/"><img src="https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d">
-  <a href="https://steamcommunity.com/profiles/76561198310703375"><img src="https://camo.githubusercontent.com/816a28a81b935f09bbe32600de30a1c29ea2bbc63b932eaeb7c00d2726e22971/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537465616d26636f6c6f723d303030303030266c6f676f3d537465616d266c6f676f436f6c6f723d464646464646266c6162656c3d">
+
+  <img src="https://github.com/user-attachments/assets/aef78b96-916e-42a5-af52-b7b9cba2b988" alt="html_logo" heigth="50px" width="50px">
+  <img src="https://github.com/user-attachments/assets/cee3b7a3-b3d8-4d0b-8e1f-53e2e5682d85" alt="css_logo" heigth="50px" width="50px">
+  <img src="https://github.com/user-attachments/assets/7b3ebcd5-d98f-4980-8e2c-2648c1642acd" alt="react_logo" heigth="50px" width="50px">
+  <img src="https://github.com/user-attachments/assets/c17562ce-5a49-41b7-bfa9-849c123e8e78" alt="nodejs_logo" heigth="50px" width="50px">
+  <img src="https://github.com/user-attachments/assets/eea64b4d-d5f1-4aa9-acb5-040bc8956840" alt="oracle_logo" heigth="50px" width="50px">
+  <img src="https://github.com/user-attachments/assets/501a164b-2f45-467f-a704-df643502ce11" alt="postgresql_logo" heigth="50px" width="50px">
+  <img src="https://github.com/user-attachments/assets/f90012e2-69a1-413b-ad95-80ea1fc23b56" alt="github_logo" heigth="50px" width="50px">
+  <img src="https://github.com/user-attachments/assets/acfb55ec-06a7-4868-a059-348e10b3134d" alt="docker_logo" heigth="50px" width="50px">
+
+
+
  
 </div>
 
