@@ -18,10 +18,12 @@ Estou aprendendo ReactJS, NodeJS, Expressjs.
   <img src="https://github.com/user-attachments/assets/acfb55ec-06a7-4868-a059-348e10b3134d" alt="docker_logo" heigth="50px" width="50px">
 
 
-
+![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavio-LP&show_icons=true&theme=react)
+![Flavio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-LP&theme=react)
  
 </div>
 
+ 
  ![Snake animation](https://github.com/Flavio-LP/Flavio-LP/blob/output/github-contribution-grid-snake.svg)
      
    
