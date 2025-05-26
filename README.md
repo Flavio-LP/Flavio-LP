@@ -1,5 +1,6 @@
 
 <body align="center";>
+ 
  <div align="center">
   <strong> Eu sou Flávio, Desenvolvedor FullStack com foco em Backend. </strong>
   
@@ -79,6 +80,8 @@
  <hr>
  
  <div align="center">
+ 
+ <p> <img src="https://komarev.com/ghpvc/?username=Flavio-LP&label=Profile%20views&color=0e75b6&style=flat" alt="Flavio-LP" /> </p>
  
  ![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavio-LP&show_icons=true&theme=react)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-LP&layout=compact&theme=react)
